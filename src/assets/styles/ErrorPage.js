@@ -1,7 +1,7 @@
 import styled from 'styled-components';
 
 const Wrapper = styled.main`
-  text-align: center;
+  text-align: center; 
   img {
     width: 90vw;
     max-width: 600px;
