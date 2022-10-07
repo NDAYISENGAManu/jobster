@@ -154,7 +154,7 @@ const El = styled.el`
 const Wrapper = styled.el``;
 
 const Component = () => {
-  return (
+  return ( 
     <Wrapper>
       <h1> Component</h1>
     </Wrapper>
